@@ -13,7 +13,6 @@ Students will be asked in groups to examine the data on the first tab of the spr
 * How many total properties did Chipotle operate?
 * How many Chipotle properties did Chipotle operate in the US?
 * How many Chipotle properties did Chipotle operate outside the US?
-
 * Which geography had the most Chipotle properties?
 * Which geography had the least Chipotle properties?
 
@@ -21,6 +20,7 @@ Students will be asked in groups to examine the data on the first tab of the spr
 Working in the same groups, students will act as Chipotle's new marketing and sales teams. Using the provided data, students will
 * analyze the trend of overall growth in Chipotle properties/locations
 * analyze trends in sales of different food items at Chipotle
+
 to provide a marketing or sales strategy that would benefit Chipotle. This could be recommending a new location for Chipotle, a marketing strategy of pairing two food items as a cheaper combo meal, discontinuing certain food items if their sales are not up to par, etc.
 
 ### Discussion
