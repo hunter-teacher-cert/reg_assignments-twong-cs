@@ -12,4 +12,4 @@ Attempting each question: __/8 (1 pt each problem) \
 Solving Problem 5:        __/1 \
 Solving Problem 6:        __/1 \
                          ----- \
-Total:                   __/10 \
+Total:                   __/10
